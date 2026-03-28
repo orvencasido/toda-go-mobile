@@ -1,0 +1,7 @@
+https://github.com/orvencasido/toda-go-mobile
+
+git pull origin main - para makuha yung files sa cloud or git hub
+
+git add . -ang purpose para maadd yung changes sa local laptop
+git commit-m - para makapag comment ng push
+git push origin - para malagay yung changes sa cloud
